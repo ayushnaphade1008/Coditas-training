@@ -1,0 +1,18 @@
+.mybg{
+background-color: lightgreen;
+}
+
+
+#slideshowImg{
+
+    height: 600px;
+    object-fit: cover;
+}
+.mybanner{
+
+    background-color: rgb(228, 226, 226);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+
+}
